@@ -1,1 +1,13 @@
+# Excluir Dockerfile
+Dockerfile
+
+# Excluir .gitignore
+.gitignore
+
+# Excluir otros archivos innecesarios
+.dockerignore
+*.log
+*.tmp
+.git
+
 __pycache__/
